@@ -4,6 +4,8 @@
 
 #### I am currently working at Flux Auto, Bangalore
 
+#### [LinkedIn Profile](https://www.linkedin.com/in/shilpaj-bhalerao/)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
