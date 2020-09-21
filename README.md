@@ -1,6 +1,7 @@
 # Shilpaj Bhalerao
 ### Hi there! 👋
-### I am a robotics enthusiast and a life-long learner. Currently, working on autonomous technology for commercial vehicles.
+### I am a robotics enthusiast and a life-long learner. 
+### Currently, working on autonomous technology for commercial vehicles.
 
 #### I am currently working at Flux Auto, Bangalore
 
